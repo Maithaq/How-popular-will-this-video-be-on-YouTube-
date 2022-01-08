@@ -34,12 +34,12 @@ description: contains the video description as a string. Some contain non-ascii 
 - Use more than one modal to choose the best degree.
 
 ## Tools: 
-1.Numpy 
-2.Pandas 
-3.Matplotlib 
-4.Seaborn 
-5.Sklearn
-6.collections
-7.Statsmodels.
-8.WordCloud
-9.random
+- Numpy 
+- Pandas 
+- Matplotlib 
+- Seaborn 
+- Sklearn
+- collections
+- Statsmodels
+- WordCloud
+
